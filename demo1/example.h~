@@ -1,4 +1,0 @@
-/* File: example.h */
-int pi = 3.14;
-int fact(int n);
-
