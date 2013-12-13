@@ -1,0 +1,17 @@
+1) create function power which takes two arguments x and y and returns power x^y.
+
+2) create class Person 
+	characteristics :
+		name - string
+		age - int/float
+		sex - char
+		hobbies - vector string
+	
+	it's set and get methods....
+	create one method setHobbies() which receives vector of string.
+
+3) Use Person class.....
+    overload +/- operator to add/remove hobbies.
+
+
+4    
